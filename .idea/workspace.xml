@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec7a3085-e051-4628-919d-730f827fed8c" name="Default Changelist" comment="" />
+    <list default="true" id="ec7a3085-e051-4628-919d-730f827fed8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/test_in_theaters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="106">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -73,6 +76,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -88,12 +94,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="197" />
     <option name="y" value="223" />
     <option name="width" value="1390" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -200,7 +207,7 @@
       <workItem from="1591003166829" duration="2483000" />
       <workItem from="1591005845178" duration="2068000" />
       <workItem from="1591064814802" duration="74000" />
-      <workItem from="1593683475814" duration="603000" />
+      <workItem from="1593683475814" duration="1112000" />
     </task>
     <servers />
   </component>
@@ -213,11 +220,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5228000" />
+    <option name="totallyTimeSpent" value="5737000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="201" y="-41" width="3135" height="1826" extended-state="7" />
-    <editor active="true" />
+    <frame x="201" y="-41" width="3135" height="1826" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22710499" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -233,7 +239,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.48167938" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.48763523" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -291,8 +297,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_in_theaters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="106">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
